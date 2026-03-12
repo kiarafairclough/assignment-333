@@ -27,6 +27,36 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/whey-protein-powder/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/multivitamin-capsules/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/omega-3-fish-oil/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/vitamin-d3-tablets/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/creatine-monohydrate/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
